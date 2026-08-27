@@ -40,6 +40,10 @@ Depending on the circumstances, this may involve:
 
 To report a concern, email the [Steering Committee](mailto:conduct@accessibleaicode.info?subject=Code%20of%20Conduct%20report).
 
+If your concern is about a Steering Committee member who represents Microsoft or TetraLogical, contact the independent member of the Steering Committee. If your concern is with the independent Steering Committee member, contact any other member of the Steering Committee.
+
+The names and contact information for current members of the Steering Committee can be found on the [Accessible AI Code Benchmark](https://github.com/accessible-ai-code-benchmark) organization homepage.
+
 ## If concerns are raised about your behaviour
 
 The AI Accessibility Benchmark Steering Committee is responsible for interpreting and enforcing this Code of Conduct. The Steering Committee will review reports fairly, maintain appropriate confidentiality, and determine any remedial or disciplinary actions.
@@ -48,7 +52,13 @@ We will take concerns seriously and respond in a proportionate manner. Not all c
 
 If concerns are raised about your behaviour, we will seek to understand the circumstances and discuss them with you openly and respectfully. In many cases, the first step will be informal feedback and an opportunity to reflect on and adjust the behaviour.
 
-We expect all contributors to engage constructively with feedback and to make reasonable efforts to address concerns when they are raised.
+If the concern is about a member of the Steering Committee, that person takes no part in reviewing the report and is not informed unless action is agreed. At this point, the report is handled as described above.
+
+If formal action requires that the member of the Steering Committee be removed from office, the decision policy described on the [Accessible AI Code Benchmark](https://github.com/accessible-ai-code-benchmark) homepage is followed.
+
+We expect all contributors, including Steering Committee members,  to engage constructively with feedback and to make reasonable efforts to address concerns when they are raised.
+
+Retaliation against someone who raises a concern in good faith is itself a violation of this Code of Conduct.
 
 ### Formal action
 
